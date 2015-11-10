@@ -1,3 +1,4 @@
+
 pak01_000.vpk
 pak01_027.vpk
 pak01_037.vpk
@@ -10,7 +11,6 @@ splitscreen_config.txt
 loadouts.txt
 pak01_020.vpk
 pak01_041.vpk
-scripts
 scripts/damagecutout_laughriot.txt
 scripts/weapon_flashbang.txt
 scripts/soundscapes_overpass.txt
@@ -252,7 +252,6 @@ pure_server_whitelist.txt
 medalsconfig.txt
 pak01_009.vpk
 gameinfo.txt
-models
 models/props_debris
 models/props_doors
 models/props_industrial
@@ -384,7 +383,6 @@ unusedcontent.cfg
 pak01_049.vpk
 pak01_055.vpk
 pak01_030.vpk
-cfg
 cfg/user_default.scr
 cfg/thirdperson.cfg
 cfg/map_edit.cfg
@@ -445,7 +443,6 @@ cfg/entity.cfg
 cfg/valve.rc
 cfg/game360.cfg
 cfg/mem_level_1_pc.ekv
-maps
 maps/de_overpass.bsp
 maps/de_lake.jpg
 maps/de_shortdust.nav
@@ -735,7 +732,6 @@ whitelist_beta.cfg
 pak01_040.vpk
 demo_polish_settings.cfg
 botchatter.db
-materials
 materials/allow1024.txt
 materials/vgui
 materials/vgui/fonts
@@ -1429,7 +1425,6 @@ pak01_039.vpk
 rebuy.txt
 pak01_053.vpk
 pak01_004.vpk
-sound
 sound/ui
 sound/sound.cache
 sound/player
